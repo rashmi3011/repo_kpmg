@@ -1,0 +1,7 @@
+role Australia
+	modelPermission: read
+
+	tablePermission 'Sales Territory' = [Country] == "Australia"
+
+	annotation PBI_Id = f22afa03c0084016b400e9d181366082
+

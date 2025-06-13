@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Report",
-    "displayName": "report_new"
+    "displayName": "Sales Analysis - Enforce model security (4)"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "cca5a458-9e22-869f-43b9-9ae0957d47cc"
+    "logicalId": "d9fdc3d3-f490-a7d2-4bd8-e0bb52f70cae"
   }
 }
